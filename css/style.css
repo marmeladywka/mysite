@@ -128,13 +128,6 @@ html {
   object-fit: cover;
 }
 
-.header__video-mob {
-  display: none;
-  width: 100%;
-  height: 100vh;
-  object-fit: cover;
-}
-
 .header__text {
   position: absolute;
   top: 50%;
@@ -146,7 +139,7 @@ html {
 
 .header__hello {
   color: #ffffff;
-  opacity: 0.4;
+  opacity: 0.6;
   font-size: 36px;
   font-weight: 700;
   letter-spacing: 3.6px;
@@ -158,7 +151,7 @@ html {
 
 h1 {
   color: #ffffff;
-  opacity: 0.4;
+  opacity: 0.6;
   font-size: 30px;
   font-weight: 700;
   letter-spacing: 2.6px;
@@ -173,7 +166,7 @@ h1 {
 
 .header__name {
   color: #ffffff;
-  opacity: 0.4;
+  opacity: 0.6;
   font-size: 24px;
   font-weight: 400;
   letter-spacing: 2.2px;
@@ -1089,21 +1082,11 @@ footer {
 @media (max-width: 575px) {
 
   /*header*/
-  
-.header__video-mob {
-  display: block;
-  width: 100%;
-  height: 100vh;
-  object-fit: cover;
-}
-  
-.header__video {
-  display: none;
-  }
 
 .header__hello {
   font-size: 20px;
   padding-bottom: 3%;
+  
 }
 
 .header__menu-bg {
@@ -1113,6 +1096,7 @@ footer {
 h1 {
  font-size: 22px;
  padding-bottom: 3%;
+  
 }
 
 .header__btn-link {
@@ -1131,6 +1115,7 @@ h1 {
 .header__name {
   font-size: 16px;
   padding-bottom: 5%;
+   
 }
 
 .header__btn {
