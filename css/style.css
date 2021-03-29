@@ -406,7 +406,7 @@ h1 {
   width: 100%;
   height: 600px;
   background-position: center;
-  background-attachment: fixed;
+  background-attachment: fixed , scroll;
 }
 
 .info__title {
