@@ -1086,6 +1086,7 @@ footer {
 .header__hello {
   font-size: 20px;
   padding-bottom: 3%;
+  opacity: 0.8;
   
 }
 
@@ -1096,7 +1097,7 @@ footer {
 h1 {
  font-size: 22px;
  padding-bottom: 3%;
-  
+ opacity: 0.8;
 }
 
 .header__btn-link {
@@ -1115,6 +1116,7 @@ h1 {
 .header__name {
   font-size: 16px;
   padding-bottom: 5%;
+  opacity: 0.8;
    
 }
 
