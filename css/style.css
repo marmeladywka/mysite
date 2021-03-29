@@ -1182,7 +1182,7 @@ input.toggleMenu:checked ~ .header__mob {
 }
 
 .info__img {
-    height: 150px;
+    height: 200px;
 }
 
 .info__text {
