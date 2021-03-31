@@ -111,7 +111,7 @@ html {
 /*header*/
 
 .header__intro {
-  max-height: 100vh;
+  height: 100vh;
   overflow: hidden;
   background: url(../images/pexels-miki.jpg)
   center no-repeat ;
