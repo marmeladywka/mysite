@@ -113,14 +113,14 @@ html {
 .header__intro {
   overflow: hidden;
   background: url(../images/pexels-miki.jpg)
-  center no-repeat #94a233;
+  center no-repeat #696969;
   background-size: cover;
   position: relative;
   top:0;
-  right:0;
-  bottom:0;
   left:0;
   z-index: 0;
+  width: 100%;
+  height: 100%;
 
 }
 
