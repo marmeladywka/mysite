@@ -120,7 +120,6 @@ html {
 
 .header__background {
   position: relative;
-  padding-bottom: 96%;
   z-index: 0;
 
 }
@@ -132,7 +131,7 @@ html {
   left: 0;
   bottom: 0;
   min-width: 100%;
-  min-height: 100%;
+  min-height: 100vh;
   z-index: 1;
 }
 
