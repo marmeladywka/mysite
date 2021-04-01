@@ -113,7 +113,7 @@ html {
 .header__intro {
   height: 100vh;
   overflow: hidden;
-  background: url(../images/bg1.jpg)
+  background: url(../images/bg3.jpg)
   center no-repeat ;
   background-size: cover;
 }
