@@ -1203,10 +1203,11 @@ input.toggleMenu:checked ~ .header__mob {
 }
 
 .info__text {
+    width: 50%;
     color: #696969;
     font-weight: 700;
     font-size: 18px;
-    line-height: 22px;
+    line-height: 26px;
     padding-right: 5%;
     padding-left: 5%;
     align-items: center;
