@@ -18,6 +18,34 @@ $(document).ready(function(){
 		swipe:true,
 		touchThreshold:10,
 		touchMove:true,
+		responsive:[
+		{
+			breakpoint:1230,
+			settings: {
+				slidesToShow:3,
+			}
+
+	
+		},
+		{
+			breakpoint:990,
+			settings: {
+				slidesToShow:2,
+			}
+
+	
+		},
+		{
+			breakpoint:670,
+			settings: {
+				slidesToShow:1,
+			}
+
+	
+		}
+
+		]
+
 
 	});
 })
