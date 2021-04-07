@@ -830,14 +830,6 @@ footer {
 
 /*info*/
 
-.info__slider .slider__item img {
-	width: 70%;
-}
-	
-.slider__item--w3c {
-	padding-top: 30px;
-}
-
 .info__img {    
   height: 400px;    
 }
