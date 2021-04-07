@@ -420,6 +420,10 @@ h1 {
 	padding: 50px 100px;
 }
 
+.info__slider .slider__item img {
+	max-width: 100%;
+}
+
 .slider__item {
 	padding-left: 30px;
 }
