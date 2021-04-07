@@ -830,6 +830,10 @@ footer {
 
 /*info*/
 
+.info__slider .slider__item img {
+	width: 70%;
+}
+
 .info__img {    
   height: 400px;    
 }
@@ -926,10 +930,6 @@ footer {
 .info__icon {
   width: 12%;
   height: 80px;
-}
-
-.info__icon-name {
-  font-size: 12px;
 }
 
 .info__process-text {
@@ -1103,10 +1103,6 @@ footer {
   .info__icon {
     height: 70px;
 
-  }
-
-  .info__icon-name {
-    font-size: 10px;
   }
 
   .info__process-text {
@@ -1298,10 +1294,6 @@ input.toggleMenu:checked ~ .header__mob {
     width: 90%;
     margin: 5%;
     border-radius: 15px;
-}
-
-.info__icon-name {
-    font-size: 16px;
 }
   
 .info__process {
